@@ -1,2 +1,3 @@
 helllo file 2
+In  6 rabbit owners in between line.
 This is the conflict line.
