@@ -1,1 +1,2 @@
 helllo file 2
+This is the conflict line.
