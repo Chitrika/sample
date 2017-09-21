@@ -1,1 +1,3 @@
 Hello file 1
+Multiple conflicts should be first.
+Miltuple Conflicts should be the second.
